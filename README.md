@@ -1,1 +1,0 @@
-# Visualizacion-y-analisis-de-un-ECG-
